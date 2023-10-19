@@ -1,2 +1,3 @@
 # apstester
-aps tester
+run:<br>
+~$ ./tester ./program ./testsfolder
